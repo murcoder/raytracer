@@ -1,0 +1,21 @@
+<?xm l version="1.0"?>
+<class>
+<student rollno="393">
+<firstnam e>dinkar</firstnam e>
+<lastnam e>kad</lastnam e>
+<nicknam e>dinkar</nicknam e>
+<m arks>85</m arks>
+</student>
+<student rollno="493">
+<firstnam e>Vaneet</firstnam e>
+<lastnam e>Gupta</lastnam e>
+<nicknam e>vinni</nicknam e>
+<m arks>95</m arks>
+</student>
+<student rollno="593">
+<firstnam e>jasvir</firstnam e>
+<lastnam e>singn</lastnam e>
+<nicknam e>jazz</nicknam e>
+<m arks>90</m arks>
+</student>
+</class>
