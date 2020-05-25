@@ -1,6 +1,6 @@
 # Raytracer
 
-As party of the lecture _Introduction to Computer Graphics_ I build this raytracer.
+A Raytracer created in Java as part of a lecture for University of Vienna.
 
 This is rendering an image based on physically correct light refractions and the condition of the surface.
 
